@@ -1,0 +1,7 @@
+Exercise for remote
+<<<<<<< HEAD
+local1 change 
+local2 change
+=======
+local1 change done 
+>>>>>>> 8487f35 (Chenges done to textfile)
