@@ -6,8 +6,11 @@ Hello
 Hello everyone
 Hello HI
 HI HI
-<<<<<<< Updated upstream
 Hello Hello, how are you?
+Hello
+<<<<<<< HEAD
+Hi Hi
 =======
-HI HI
->>>>>>> Stashed changes
+Hi Hi
+Hello Hello
+>>>>>>> test
